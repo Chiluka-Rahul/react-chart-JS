@@ -1,0 +1,36 @@
+
+.chart-wrapper {
+    padding: 20px;
+    background: #000000;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 90%;
+    margin: auto;
+  }
+  
+  
+
+  .chart-container {
+    position: relative;
+    height: 60vh;
+    width: 70vw;
+  }
+  
+  .chart-wrapper button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #61dafb;
+    color: #282c34;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .chart-wrapper button:hover {
+    background-color: #000000;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+  }
+  
